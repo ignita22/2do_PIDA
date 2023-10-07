@@ -34,3 +34,14 @@ Un 3° KPI propuesto por mí es la ubicación de los accidentes más frecuentes 
 
 Presentaremos un tablero con un storytelling detallando si se cumplen o no los KPI's recientemente nombrados, a través de gráficos y filtros interactivos, donde se podrán observar las estadísticas referidas a los datos obtenidos, y así poder tener una visión más clara a la hora de tomar decisiones. 
 
+
+***INSIGHT***
+
+Para seguir reduciendo los siniestros viales en CABA, se podrían tomar las siguientes medidas:
+Ampliar la implementación de la semaforización inteligente a todas las intersecciones de la ciudad.
+Continuar instalando cámaras de seguridad en las calles.
+Fortalecer las campañas de concientización sobre la seguridad vial.
+Mejorar la infraestructura vial, con el objetivo de reducir la velocidad de los vehículos.
+Además, se podría considerar la implementación de medidas más drásticas, como la instalación de radares de control de velocidad en las calles, o la implementación de un sistema de multas automáticas para los conductores que cometan infracciones.
+
+La reducción de los siniestros viales en CABA es una tarea compleja, que requiere la participación de todos los actores involucrados. Sin embargo, con la implementación de medidas efectivas, es posible seguir avanzando en este objetivo y hacer de las calles de la ciudad un lugar más seguro para todos.
