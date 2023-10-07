@@ -32,5 +32,5 @@ Un 3° KPI propuesto por mí es la ubicación de los accidentes más frecuentes 
 
 ***DASHBOARD:***
 
-Presentaremos un tablero con un storytelling detallando si se cumplen o no los KPI's recientemente nombrados, a través de gráficos y filtros interactivos.
+Presentaremos un tablero con un storytelling detallando si se cumplen o no los KPI's recientemente nombrados, a través de gráficos y filtros interactivos, donde se podrán observar las estadísticas referidas a los datos obtenidos, y así poder tener una visión más clara a la hora de tomar decisiones. 
 
